@@ -1,0 +1,7 @@
+.venv/
+build/
+dist/
+dataset/raw/
+__pycache__/
+*.pyc
+*.spec
